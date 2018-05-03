@@ -71,7 +71,7 @@ Type: `String`
 
 A path prefix for all keys. Useful for including your output path in the manifest.
 
-### `options.outputPath`
+### `options.manifestPath`
 
 Type: `String`
 Default: `output.path`
